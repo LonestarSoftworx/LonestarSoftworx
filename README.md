@@ -1,1 +1,1 @@
-# LonestarSofrworx
+Lonestar Softworx is a software development compant that specializes in the development of extensions for Micrsoft Visual Studio. WE currently three extensions: VSBackup for VS 2022, VSBackup for VS 2019 & 2017, and VSRegex.

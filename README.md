@@ -6,4 +6,6 @@ VSBackup for VS 2019 & 2017:  https://marketplace.visualstudio.com/items?itemNam
 
 VSRegex for VS 2022:          https://marketplace.visualstudio.com/items?itemName=LonestarSoftworx.vsregex2022
 
+VSCodeSnap for VS 2022:       https://marketplace.visualstudio.com/items?itemName=LonestarSoftworx.VSCodeSnap2023
+
 If you are experiencing any problems with any of these extensions or want to suggest a new feature, please feel free to create an issue. You can also contact Lonestar Softworx at support@lonestarsoftworx.com

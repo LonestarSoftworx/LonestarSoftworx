@@ -8,4 +8,4 @@ VSRegex for VS 2022:          https://marketplace.visualstudio.com/items?itemNam
 
 VSCodeSnap for VS 2022:       https://marketplace.visualstudio.com/items?itemName=LonestarSoftworx.VSCodeSnap2023
 
-If you are experiencing any problems with any of these extensions or want to suggest a new feature, please feel free to create an issue. You can also contact Lonestar Softworx at support@lonestarsoftworx.com
+If you are experiencing any problems with any of these extensions or want to suggest a new feature, please feel free to create an issue. You can also contact Lonestar Softworx at support@lonestarsoftworx.com.
